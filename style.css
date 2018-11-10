@@ -1,0 +1,41 @@
+html{
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    
+    margin-bottom: 50px;
+  }
+
+.panel-body{
+    background-color: #f8f8f8;
+    
+    
+}
+
+h2{
+    font-style: bold;
+    font-family: Georgia, serif;
+    color: aquamarine;
+}
+
+.panel{
+    padding: 10px;
+    background-color: #f8f8f8;
+
+}
+
+.current-tag{
+    border: 5px;
+    border-width: 5px;
+    border-color:aquamarine;
+    border-style: solid;
+}
+
+h3{
+    color: aquamarine;
+    font-style: bold;
+    text-align: center;
+    font-family: Georgia, serif;
+}
